@@ -1,0 +1,7 @@
+# Backend
+db.sqlite3
+media_cdn
+__pycache__
+
+# Front end
+node_modules
